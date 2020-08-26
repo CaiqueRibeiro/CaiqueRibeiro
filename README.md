@@ -4,7 +4,7 @@
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Caique%20Ribeiro-blue"/>
 </a>
 
-<a href="mailto:m.caiqueribeirodesign@gmail.com">
+<a href="mailto:caiqueribeirodesign@gmail.com">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
 
