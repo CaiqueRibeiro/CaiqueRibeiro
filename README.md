@@ -12,6 +12,6 @@
 
 ### Here you find a beautiful code with crazy algorithms 
 
-- 🚀 I’m a Javascript developer at [Onyma](https://onyma.digital/)
+- 🚀 I’m a FullStack developer
 - 💻 Node, ReactJS, React Native, Java, Python
 - ✨ Degree in System Analysis and Development / Design
