@@ -12,6 +12,6 @@
 
 ### Here you find a beautiful code with crazy algorithms 
 
-- 🚀 I’m a FullStack developer
-- 💻 Node, ReactJS, React Native, Java, Python
+- 🚀 I’m a Backend developer
+- 💻 Node, ReactJS, React Native, Java, GoLang
 - ✨ Degree in System Analysis and Development / Design
