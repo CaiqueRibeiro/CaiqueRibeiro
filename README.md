@@ -10,8 +10,8 @@
 
 <br/>
 
-### Here you find a beautiful code with crazy algorithms 
+### Developer since 2016
 
-- 🚀 I’m a Backend developer
-- 💻 Node, ReactJS, React Native, Java, GoLang
+- 🚀 I’m a Backend developer (but I know some magic in front and mobile too)
+- 💻 NodeJS, GoLang, Java, ReactJS, React Native, Native Android (Kotlin)
 - ✨ Degree in System Analysis and Development / Design
