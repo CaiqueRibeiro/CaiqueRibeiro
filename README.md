@@ -13,5 +13,5 @@
 ### Developer since 2016
 
 - 🚀 I’m a Backend developer (but I know some magic in front and mobile too)
-- 💻 NodeJS, GoLang, Java, ReactJS, React Native, Native Android (Kotlin)
+- 💻 NodeJS, GoLang, Java, ReactJS, React Native
 - ✨ Degree in System Analysis and Development / Design
