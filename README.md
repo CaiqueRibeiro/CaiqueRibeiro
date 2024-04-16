@@ -6,7 +6,7 @@ I'm a software engineer since 2016. I've been working with fullstack engineering
 
 - 🚀 I’m a Backend developer (but I know some magic in front too)
 - 💻 NodeJS, GoLang, ReactJS, Solidity
-- ✨ Degree in System Analysis and Development / Design
+- ✨ Degree in System Analysis and Development / Design | MBA in Solutions Architecture | MBA in Advanced Golang
 
 <h2>Technologies and tools:</h2>
 <p>
