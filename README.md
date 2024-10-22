@@ -5,7 +5,7 @@
 I'm a software engineer since 2017. I've been working with fullstack engineering, system design and software architecture since then.
 
 - 🚀 I’m a Backend/Blockchain developer (but I know some magic in front too)
-- 💻 GoLang, Solidity, Typescript (NodeJS, ReactJS)
+- 💻 GoLang, Solidity, Rust, Typescript (NodeJS, ReactJS)
 - ✨ Degree in System Analysis and Development / Design | MBA in Solutions Architecture | MBA in Advanced Golang
 
 <h2>Technologies and tools:</h2>
